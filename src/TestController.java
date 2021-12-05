@@ -1,6 +1,6 @@
 
 /**
- *  Controller class for Game Of Life.
+ *  Controller class for Test.
  *
  */
 import java.util.List;
