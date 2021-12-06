@@ -25,6 +25,10 @@ At any stage the user can start the test again.
 
 Open the project in your favorite IDE, make sure the java files in the src directory anf the fxml file in the bin directory.
 
+```bash
+java -jar q1.jar
+```
+
 ![image](https://user-images.githubusercontent.com/61428701/144766428-45e84ef4-8309-44f6-9a60-77d10f4dc1f6.png)
 ![image](https://user-images.githubusercontent.com/61428701/144766452-72048b8a-6967-4c8e-81fb-f1a399e88600.png)
 ![image](https://user-images.githubusercontent.com/61428701/144766471-53b91853-dedb-49c6-8de1-365578b445c6.png)
